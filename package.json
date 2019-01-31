@@ -1,7 +1,7 @@
 {
   "name": "dependency-track-spa",
-  "version": "1.0.0",
-  "description": "A Vue.js project",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "Dependency-Track SPA",
   "author": "steve.springett@owasp.org",
   "private": true,
   "scripts": {
@@ -10,8 +10,21 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "3.3.7",
+    "bootstrap-daterangepicker": "^3.0.2",
+    "bootstrap-select": "^1.13.1",
+    "bootstrap-table": "^1.12.1",
+    "bootstrap-tagsinput": "^0.7.1",
+    "bootstrap-toggle": "^2.2.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "npm-font-open-sans": "^1.1.0",
+    "nvd3": "^1.8.6",
+    "radar-chart": "^1.0.6",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vuex-rest-api": "^2.7.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
