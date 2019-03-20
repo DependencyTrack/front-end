@@ -1,5 +1,7 @@
 # dependency-track-spa
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ca4c89e705d6428f974eb51b54f8e7e1)](https://app.codacy.com/app/DependencyTrack/front-end?utm_source=github.com&utm_medium=referral&utm_content=DependencyTrack/front-end&utm_campaign=Badge_Grade_Dashboard)
+
 > A Vue.js project
 
 ## Build Setup
