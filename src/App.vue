@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <img src="./assets/images/dt-icon.svg">
     <router-view/>
   </div>
 </template>
@@ -13,6 +12,7 @@ export default {
 
 <style>
 #app {
+  background-color: #EFEFEF;
   /*
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
