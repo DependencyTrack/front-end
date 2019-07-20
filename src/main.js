@@ -38,17 +38,17 @@ library.add(faBug)
 Vue.component('font-awesome-icon', FontAwesomeIcon)
 Vue.component('v-select', vSelect)
 
-require("../node_modules/bootstrap/dist/css/bootstrap.min.css");
-// require("../node_modules/bootstrap-table/dist/bootstrap-table.css");
-require("../node_modules/bootstrap-toggle/css/bootstrap-toggle.min.css");
-require("../node_modules/bootstrap-tagsinput/dist/bootstrap-tagsinput.css");
-require("../node_modules/bootstrap-select/dist/css/bootstrap-select.min.css");
-require("../node_modules/bootstrap-daterangepicker/daterangepicker.css");
-require("../node_modules/npm-font-open-sans/open-sans.css");
-require("../node_modules/font-awesome/css/font-awesome.min.css");
+// require("../node_modules/bootstrap/dist/css/bootstrap.min.css");
+// // require("../node_modules/bootstrap-table/dist/bootstrap-table.css");
+// require("../node_modules/bootstrap-toggle/css/bootstrap-toggle.min.css");
+// require("../node_modules/bootstrap-tagsinput/dist/bootstrap-tagsinput.css");
+// require("../node_modules/bootstrap-select/dist/css/bootstrap-select.min.css");
+// require("../node_modules/bootstrap-daterangepicker/daterangepicker.css");
+// require("../node_modules/npm-font-open-sans/open-sans.css");
+// require("../node_modules/font-awesome/css/font-awesome.min.css");
 // require("../node_modules/radar-chart/dist/radar-chart.min.css");
 // require("../node_modules/nvd3/build/nv.d3.min.css");
-require("../src/assets/style.css");
+// require("../src/assets/style.css");
 
 Vue.config.productionTip = false;
 
