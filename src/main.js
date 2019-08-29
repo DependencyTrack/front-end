@@ -19,24 +19,24 @@ import { faUserSecret, faThermometerHalf,
   faShieldAlt, faSitemap, faCubes, faCircleNotch, faChartLine, faTasks,
   faExclamationTriangle, faBug} from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
-Vue.component('apexchart', VueApexCharts)
+Vue.component('apexchart', VueApexCharts);
 
-Vue.use(BootstrapVue)
-Vue.use(ElementUI, { locale })
+Vue.use(BootstrapVue);
+Vue.use(ElementUI, { locale });
 
-library.add(faUserSecret)
-library.add(faThermometerHalf)
-library.add(faShieldAlt)
-library.add(faSitemap)
-library.add(faCubes)
-library.add(faCircleNotch)
-library.add(faChartLine)
-library.add(faTasks)
-library.add(faExclamationTriangle)
-library.add(faBug)
+library.add(faUserSecret);
+library.add(faThermometerHalf);
+library.add(faShieldAlt);
+library.add(faSitemap);
+library.add(faCubes);
+library.add(faCircleNotch);
+library.add(faChartLine);
+library.add(faTasks);
+library.add(faExclamationTriangle);
+library.add(faBug);
 
-Vue.component('font-awesome-icon', FontAwesomeIcon)
-Vue.component('v-select', vSelect)
+Vue.component('font-awesome-icon', FontAwesomeIcon);
+Vue.component('v-select', vSelect);
 
 // require("../node_modules/bootstrap/dist/css/bootstrap.min.css");
 // // require("../node_modules/bootstrap-table/dist/bootstrap-table.css");
